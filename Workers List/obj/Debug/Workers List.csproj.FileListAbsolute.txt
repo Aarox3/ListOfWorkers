@@ -1,0 +1,12 @@
+F:\Programy\Apki\Lista pracowników\Workers List\Workers List\bin\Debug\Workers List.exe.config
+F:\Programy\Apki\Lista pracowników\Workers List\Workers List\bin\Debug\Workers List.exe
+F:\Programy\Apki\Lista pracowników\Workers List\Workers List\bin\Debug\Workers List.pdb
+F:\Programy\Apki\Lista pracowników\Workers List\Workers List\obj\Debug\Workers List.csprojAssemblyReference.cache
+F:\Programy\Apki\Lista pracowników\Workers List\Workers List\obj\Debug\Workers_List.Main.resources
+F:\Programy\Apki\Lista pracowników\Workers List\Workers List\obj\Debug\Workers_List.Properties.Resources.resources
+F:\Programy\Apki\Lista pracowników\Workers List\Workers List\obj\Debug\Workers List.csproj.GenerateResource.cache
+F:\Programy\Apki\Lista pracowników\Workers List\Workers List\obj\Debug\Workers List.csproj.CoreCompileInputs.cache
+F:\Programy\Apki\Lista pracowników\Workers List\Workers List\obj\Debug\Workers List.exe
+F:\Programy\Apki\Lista pracowników\Workers List\Workers List\obj\Debug\Workers List.pdb
+F:\Programy\Apki\Lista pracowników\Workers List\Workers List\obj\Debug\Workers_List.AddEditWorker.resources
+F:\Programy\Apki\Lista pracowników\Workers List\Workers List\obj\Debug\Workers_List.FireWorker.resources

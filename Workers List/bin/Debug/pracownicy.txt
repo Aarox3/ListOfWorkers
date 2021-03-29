@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfWorker xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Worker>
+    <id>2</id>
+    <Name>Rafał</Name>
+    <Surname>Nowak</Surname>
+    <EmployData>0001-01-01T00:00:00</EmployData>
+    <ToFireData>0001-01-01T00:00:00</ToFireData>
+    <Salary>2000 zł</Salary>
+    <Comments>Nie ma</Comments>
+  </Worker>
+  <Worker>
+    <id>1</id>
+    <Name>Jasiu</Name>
+    <Surname>Kowalski</Surname>
+    <EmployData>0001-01-01T00:00:00</EmployData>
+    <ToFireData>0001-01-01T00:00:00</ToFireData>
+    <Salary>3000 zł</Salary>
+    <Comments>Żadnych</Comments>
+  </Worker>
+  <Worker>
+    <id>3</id>
+    <Name>Basia</Name>
+    <Surname>Smith</Surname>
+    <EmployData>0001-01-01T00:00:00</EmployData>
+    <ToFireData>0001-01-01T00:00:00</ToFireData>
+    <Salary>3500</Salary>
+    <Comments>a coś trza tu wpisać?</Comments>
+  </Worker>
+</ArrayOfWorker>
